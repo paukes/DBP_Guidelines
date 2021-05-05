@@ -11,7 +11,7 @@ bdcm_ug.umol <- 163.8 #abbreviation for bromodichloromethane
 
 # Define UI for application
 ui <- fluidPage(
-  titlePanel("Disinfection By Products - Guideline Conversion App"),
+  titlePanel("Disinfection By Product - Guideline Conversion App"),
 
   br(),
   h3("For trihalomethane (THM) guidelines"),
