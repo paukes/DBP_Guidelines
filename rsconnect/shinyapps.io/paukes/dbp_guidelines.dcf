@@ -1,0 +1,14 @@
+name: dbp_guidelines
+title:
+username:
+account: paukes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4085321
+bundleId: 4562039
+url: https://paukes.shinyapps.io/dbp_guidelines/
+when: 1620245442.43306
+lastSyncTime: 1620245442.43306
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|README.Rmd
